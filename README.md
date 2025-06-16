@@ -61,7 +61,7 @@ If you would like to view or edit the project on your local system, follow these
 
 
 
- ## Navigate into the project directory:
+ **Navigate into the project directory:**
 
 
 cd VK-ACADEMY-EDUCATIONAL-WEBSITE
